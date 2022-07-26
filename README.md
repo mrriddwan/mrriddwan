@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrriddwan&label=Profile%20views&color=0e75b6&style=flat" alt="mrriddwan" /> </p>
 
-- 🔭 I’m currently working on [Employee Management Dashboard](http://kreno-employee-management.herokuapp.com/login)
+- 🔭 I’m currently working on [Employee Management Dashboard](http://kreno-employee-management.herokuapp.com/login) u:admin pw:password
 
 - 🌱 I’m currently learning **Laravel, Vue**
 
