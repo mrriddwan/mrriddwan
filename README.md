@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrriddwan&label=Profile%20views&color=0e75b6&style=flat" alt="mrriddwan" /> </p>
 
-- 🔭 I’m currently working on Customer Relations Management System
+- 🔭 I’m currently working in improving the code 
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **Laravel, Vue, React, Next**
 
 - 📫 How to reach me **amirridwanrodzi@gmail.com**
 
